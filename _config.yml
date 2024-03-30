@@ -32,8 +32,8 @@ texture:
   navigation:
     - title: Home
       url: ""
-    - title: My Work
-      url: "/my-work"
+    - title: My projects
+      url: "/projects"
     - title: Resume
       url: "/resume.pdf"
  
