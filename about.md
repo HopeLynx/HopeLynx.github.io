@@ -47,7 +47,7 @@ Checkout my projects @[Github](https://github.com/HopeLynx)
     * Worked on updating the PLC software logic for main products which resulted in saving upto 40% in number of different special variations of programms due to rapid multifunctioning and making them suitable for several types of hardware, having the backward compatibility.
     * Programming Siemens industrial controllers
 
-* #### Information Technology Department Intern @[Ministry of finance of Russia](https://minfin.gov.ru/) - (Aug 2021 - Sep 2021)
+* #### Information Technology Department Intern @[Ministry of finance of Russian Federation](https://minfin.gov.ru/) - (Aug 2021 - Sep 2021)
 
     * Worked on and studied the principles of development and administration of the Ceph cluster distributed file system, which is part of a special purpose operating system.
 
