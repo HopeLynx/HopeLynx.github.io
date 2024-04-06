@@ -71,6 +71,7 @@ Checkout my projects @[Github](https://github.com/HopeLynx)
       *   Google Data Analytics
       *   DeepLearning.AI TensorFlow Developer
       *   (ISC)² Systems Security Certified Practitioner (SSCP)
+      *   (Links will be added soon)
 
 
 ## Scientific Related:
