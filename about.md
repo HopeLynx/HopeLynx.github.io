@@ -76,6 +76,6 @@ Checkout my projects @[Github](https://github.com/HopeLynx)
 ## Scientific Related:
    * #### International Youth Scientific Forum "Lomonosov-2023" - (April 2023)
   
-      * Presentation at the International Youth Scientific Forum "Lomonosov-2023"
+      * Presentation at the Forum:
          * Had a speech about my research and progress of development of software that solves Inverse problem of Magnetotellurics Zonding using machine learning algorithms.
 
