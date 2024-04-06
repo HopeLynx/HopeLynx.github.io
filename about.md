@@ -27,7 +27,7 @@ Checkout my projects @[Github](https://github.com/HopeLynx)
 
 
 ## Projects:
-1. #### [goDIRB](https://github.com/HopeLynx/goDIRB)):
+1. #### [goDIRB](https://github.com/HopeLynx/goDIRB):
 
    It's "homemade" DIRB using goLang.
 
@@ -64,4 +64,18 @@ Checkout my projects @[Github](https://github.com/HopeLynx)
     * Studied advanced applied Mathematical Moddeling and Computer Science 
         * Worked on the Technical practice project, made 100s of mathematical scripts.
         * Studied advanced mathematics and multiple complex calculus subjects.
+
+       
+## Courses & Certifications:
+   * #### Coursera Professional Certifications:
+      *   Google Data Analytics
+      *   DeepLearning.AI TensorFlow Developer
+      *   (ISC)² Systems Security Certified Practitioner (SSCP)
+
+
+## Scientific Related:
+   * #### International Youth Scientific Forum "Lomonosov-2023" - (April 2023)
+  
+      * Presentation at the International Youth Scientific Forum "Lomonosov-2023"
+         * Had a speech about my research and progress of development of software that solves Inverse problem of Magnetotellurics Zonding using machine learning algorithms.
 
